@@ -1,5 +1,0 @@
-discord.py
-youtube-dl
-pytube
-aiohttp
-ffmpeg-python
